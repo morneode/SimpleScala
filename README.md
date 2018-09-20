@@ -14,7 +14,7 @@ sbt
 | compile                   | compile your src                                                                 |
 | test                      | compile your tests                                                               |
 | test:compile              | compile src and tests                                                            |
-| procect <subproject name> | switch to a subproject                                                           |
+| project <subproject name> | switch to a subproject                                                           |
 | runMain                   | run your project (you can also specify which project by passing it as a param)   |
 | testOnly                  | run your test (you can also specify which test by passing it as a param)         |
 
